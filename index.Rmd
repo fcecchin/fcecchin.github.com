@@ -2,8 +2,13 @@
 title: "Frantchesco Cecchin"
 output:
   html_document:
-    theme: simplex
+    theme: flatly
+    toc: true 
+    toc_depth: 3 
+    toc_float: true
 ---
+
+![](images/gravatar.jpeg){width=100px}
 
 ## About
 
